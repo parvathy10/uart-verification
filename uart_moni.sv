@@ -1,3 +1,5 @@
+
+monitor 
 module uart_monitor (
   input logic clk,
   input logic rst_n,
