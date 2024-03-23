@@ -1,3 +1,4 @@
+scoreboard
 module uart_scoreboard (
   input logic clk,
   input logic rst_n,
